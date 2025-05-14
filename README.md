@@ -14,4 +14,4 @@ Logiciel :
     Ajout via Help > Manage Embedded Software Packages > From Local File
 
 Librairies : 
-  Certaines librairies ont été ajoutées par chemin absolu donc leur chemin doit être édité.
+  - Certaines librairies ont été ajoutées par chemin absolu donc leur chemin doit être édité.
